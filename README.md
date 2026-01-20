@@ -28,7 +28,7 @@ Scripts live under the `ingest/` directory.
 
 ---
 
-### 2. Exploratory analysis (planned)
+### 2. Exploratory analysis
 Exploratory and descriptive analysis of market-wide behavior, including:
 - cross-sectional distributions
 - liquidity and volatility regimes
